@@ -39,7 +39,25 @@ main {
 }
 #featBan {
     float:left;
+    margin-right: 30px;
 }
 h1 {
     font-size: 20px;
+}
+p { 
+    overflow:scroll;
+    height: 250px;
+}
+
+button:hover {
+    background-color: yellow;
+}
+
+footer {
+    background-color:gray;
+    margin: 123px 0px 0px 0px;
+}
+
+h2 {
+    height: 100px;
 }
