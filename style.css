@@ -8,8 +8,12 @@ header {
     margin-bottom: 1rem;
     align-items: center;
 }
-#navImg {
-    margin-left: 5rem;
+nav {
+    display :flex;
+    width: 960px;
+    /* background-color: blue; */
+    align-items: center;
+    margin: 0 auto;
 }
 ul {
     display:flex;
